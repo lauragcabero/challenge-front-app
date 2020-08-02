@@ -1,0 +1,9 @@
+.block-mobile {
+  &__image {
+    max-width: 100%;
+    min-height: 0%;
+  }
+  &__p {
+    font-size: 22px;
+  }
+}

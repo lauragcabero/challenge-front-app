@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Samsung Galaxy A21s 64GB Blanco",
+    "url": "https://cdn2.smart-gsm.com/2020/05/Samsung-Galaxy-A21s-1.jpg",
+    "description": "¿Nuevo Almodóvar? Que con tanta cámara parece que estarás de rodaje. Y normal, porque esta cámara cuádruple de 48MP da para mucho. Además, con su batería de 5000 mAh y estrenando el nuevo procesador serás la envidia millennial.",
+    "colors": "blanco, negro",
+    "price": 299.0
+  },
+  {
+    "id": 2,
+    "title": "Samsung S20+ 5G 128 GB azul",
+    "url": "https://static.carrefour.es/hd_510x_/crs/cdn_static/catalog/hd/462134_00_1.jpg",
+    "description": "Hay medidas correctas... y medidas fantasía. No cabe duda que El Samsung S20+ tiene las segundas: 162mm de alto, 74mm de ancho y 7,8 mm de grosor ¡Para llevarlo de paseo! Y con su pantalla Infinity-O de 6,7” pulgaditas de nada lo vas a ver todo. En grande. Como te mereces.",
+    "colors": "azul, blanco y negro",
+    "price": 899.0
+  },
+  {
+    "id": 3,
+    "title": "Samsung Galaxy A71 128GB Negro",
+    "url": "https://www.serendib.shop/1278-large_default/samsung-galaxy-a71-negro-6gb-128gb.jpg",
+    "description": "Las dimensiones de este Samsung hacen match con la palma de tu mano: 163mm de alto, 76mm de ancho y 8mm de grosor. Y con su pantalla Infinity-O de 6,7” pulgadas vas a flipar en colores muuuy nítidos.",
+    "colors": "negro y blanco",
+    "price": 399.0
+  },
+  {
+    "id": 4,
+    "title": "Xiaomi Mi 10 Lite 5G 128GB Azul",
+    "url": "https://csmobiles.com/33135-large_default/xiaomi-mi-10-lite-128gb-dual-sim-azul.jpg",
+    "description": "Hay pantallas potentes, y luego está la pantalla CURVED del Xiaomi MI 10 Lite de 6,57 pulgadas con tecnología AMOLED y tasa de refresco de 60Hz. ¡Vas a vivir tu contenido como si fuera una película!",
+    "colors": "azul y gris",
+    "price": 599.0
+  },
+  {
+    "id": 5,
+    "title": "iPhone 11 64GB",
+    "url": "https://static.carrefour.es/hd_510x_/crs/cdn_static/catalog/hd/372852_00_1.jpg",
+    "description": "Pensado para ver más, escuchar mejor y aguantar mucho más de lo que te imaginas. El Iphone 11 viene con cámara dual y un campo de visión mucho más amplio para no perderte ni un detalle de esa playita de la que vas a presumir en Instagram. Además, incorpora las Slowfies de las que tanto has oído hablar. No sabemos si te convertirás en una estrella del pop moviendo el pelo a cámara lenta, pero por lo menos, puedes intentarlo. Di adiós a tanta foto repetida y hola a los aftermovies en 4K. ¡No lo vas a soltarlo ni debajo del agua",
+    "colors": "amarillo, blanco, negro, morado, naranja y azul",
+    "price": 699.0
+  },
+  {
+    "id": 6,
+    "title": "iPhone SE 2020 128GB Blanco",
+    "url": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202004/16/00194610601026_1__1200x1200.jpg",
+    "description": "El SE viene con tooodo para que te lo lleves al bolsillo sin pensarlo. Y es que reúne lo mejorcito de lo mejorcito. Su chip A13 Bionic es el más potentorro del bloque (el mismo que el Iphone 11 Pro). Con su pantalla Retina HD de 4’7 pulgadas te vas a llevar el tamaño más popular (el del Iphone 8). Además, te van a salir unos fotones que van a parecer auténticas obras de arte porque incluye cámara frontal de 7MP y cámara trasera de 12MP con Modo Retrato y Smart HDR. Si te gusta grabarlo todo todo todo, con su video 4K, QuickTake y su autonomía de 13 horas de video vas a poder rodar hasta la película de tu vida. ¡Y sin cortes gracias a su carga inalámbrica!",
+    "colors": "gris, blanco y negro",
+    "price": 499.0
+  },
+  {
+    "id": 7,
+    "title": "Samsung Galaxy Note 10+ 5G 256GB",
+    "url": "https://cdn.idealo.com/folder/Product/6703/3/6703386/s11_produktbild_gross/samsung-galaxy-note-10-plus-5g.jpg",
+    "description": "Con Galaxy Note10 y Note10+ Samsung ha desarrollado una experiencia móvil similar a la de un ordenador, una consola, una cámara de cine, y un lápiz inteligente, en un mismo dispositivo.\r\nLlévatelo al mejor precio con nuestras tarifas móviles de contrato. Este móvil se lo merece.",
+    "colors": "gris, negro y blanco",
+    "price": 899.0
+  },
+  {
+    "id": 8,
+    "title": "Huawei P Smart 2020 128GB  Verde",
+    "url": "https://cdn.movertix.com/media/catalog/product/cache/image/800x/h/u/huawei-p-smart-2020-dual-sim-en-verde-de-128gb-y-4gb-ram.jpg",
+    "description": "Siéntate y prepárate para lo que viene. Ya no te harán falta gafas de cerca, porque con su pantallote IPS LCD de 6,21 pulgadas y y la resolución FullHD+  tooodo estará de más. \r\nSabemos que te gusta estar en la calle disfrutando del solecito, por eso con su batería de 3400mAh podrás sacar fotos de tus salidas durante muucho rato. Y qué fotos, nada más ni nada menos, que con una cámara de 13MPX. No seremos su abuela, pero es que solo nos sale decir cosas buenas, como que tu vista estará mega cuidada por su cámara dual con un flash LED de apoyo que permite lecturas profundas en situaciones de poca luminosidad. También tiene otras características que lo hacen más adorable como: 4G Dual, WiFi 5, Bluetooth 4.2, GPS, chip NFC y radio FM para mover tu cuerpo serrano.",
+    "colors": "Aurora, azul y verde",
+    "price": 799.0
+  },
+  {
+    "id": 9,
+    "title": "Huawei Y6 2019 32GB Azul",
+    "url": "https://static.fnac-static.com/multimedia/Images/ES/NR/1b/0d/53/5442843/1540-1.jpg",
+    "description": "Utilizar el Huawei Y6 te resultará más fácil que pestañear. Su diseño es sencillo pero también de lo más elegante. Por eso, su pantalla con notch en forma de gota y su carcasa estilo cristal harán que tus colegas se mueran de envidia cuando lo vean. Prueba a hacerles una foto con tu cámara trasera de 13 Mpx cuando les cuentes lo que te ha costado.",
+    "colors": "azul",
+    "price": 449.0
+  }
+]

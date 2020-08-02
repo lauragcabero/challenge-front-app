@@ -1,0 +1,16 @@
+.block-mobile {
+  &__image {
+    max-width: 100%;
+    min-height: 25%;
+  }
+  &__p-title {
+    font-size: 22px;
+  }
+  &__p {
+    font-size: 13px;
+    color: black;
+  }
+  &__last-p {
+    font-size: 20px;
+  }
+}
